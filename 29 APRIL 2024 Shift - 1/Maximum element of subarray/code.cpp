@@ -56,7 +56,7 @@ int main() {
 }
 
 
-//optimised-o(n)-solutions
+//optimised-o(n)-solutions-code by ritik
 
 #include<bits/stdc++.h>
 
